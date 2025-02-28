@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\.placeholder",
+      "PackagePath": "staticwebassets\\.placeholder"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\0\\a\\3\\2\\2\\9\\7\\b\\3\\a\\7\\5\\0a32297b3a75.jpg",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\0\\a\\3\\2\\2\\9\\7\\b\\3\\a\\7\\5\\0a32297b3a75.jpg"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\0\\a\\3\\2\\2\\9\\7\\b\\3\\a\\7\\5\\0a32297b3a75.meta",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\0\\a\\3\\2\\2\\9\\7\\b\\3\\a\\7\\5\\0a32297b3a75.meta"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\0\\e\\b\\f\\1\\5\\f\\5\\1\\b\\f\\2\\0ebf15f51bf2.jpg",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\0\\e\\b\\f\\1\\5\\f\\5\\1\\b\\f\\2\\0ebf15f51bf2.jpg"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\0\\e\\b\\f\\1\\5\\f\\5\\1\\b\\f\\2\\0ebf15f51bf2.meta",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\0\\e\\b\\f\\1\\5\\f\\5\\1\\b\\f\\2\\0ebf15f51bf2.meta"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\3\\d\\a\\d\\8\\c\\8\\c\\5\\d\\3\\7\\3dad8c8c5d37.jpg",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\3\\d\\a\\d\\8\\c\\8\\c\\5\\d\\3\\7\\3dad8c8c5d37.jpg"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\3\\d\\a\\d\\8\\c\\8\\c\\5\\d\\3\\7\\3dad8c8c5d37.meta",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\3\\d\\a\\d\\8\\c\\8\\c\\5\\d\\3\\7\\3dad8c8c5d37.meta"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\4\\d\\6\\8\\5\\7\\2\\1\\5\\1\\4\\5\\4d6857215145.jpg",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\4\\d\\6\\8\\5\\7\\2\\1\\5\\1\\4\\5\\4d6857215145.jpg"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\4\\d\\6\\8\\5\\7\\2\\1\\5\\1\\4\\5\\4d6857215145.meta",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\4\\d\\6\\8\\5\\7\\2\\1\\5\\1\\4\\5\\4d6857215145.meta"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\5\\4\\d\\4\\c\\3\\c\\5\\7\\2\\c\\2\\54d4c3c572c2.jpg",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\5\\4\\d\\4\\c\\3\\c\\5\\7\\2\\c\\2\\54d4c3c572c2.jpg"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\5\\4\\d\\4\\c\\3\\c\\5\\7\\2\\c\\2\\54d4c3c572c2.meta",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\5\\4\\d\\4\\c\\3\\c\\5\\7\\2\\c\\2\\54d4c3c572c2.meta"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\6\\3\\4\\7\\a\\8\\c\\0\\9\\6\\2\\1\\6347a8c09621.jpg",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\6\\3\\4\\7\\a\\8\\c\\0\\9\\6\\2\\1\\6347a8c09621.jpg"
+    },
+    {
+      "Id": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\wwwroot\\Default\\is-cache\\6\\3\\4\\7\\a\\8\\c\\0\\9\\6\\2\\1\\6347a8c09621.meta",
+      "PackagePath": "staticwebassets\\Default\\is-cache\\6\\3\\4\\7\\a\\8\\c\\0\\9\\6\\2\\1\\6347a8c09621.meta"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopOrchard.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopOrchard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopOrchard.props",
+      "PackagePath": "build\\ShopOrchard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopOrchard.props",
+      "PackagePath": "buildMultiTargeting\\ShopOrchard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopOrchard.props",
+      "PackagePath": "buildTransitive\\ShopOrchard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

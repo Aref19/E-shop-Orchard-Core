@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\ShopOrchard.csproj": {}
+  },
+  "projects": {
+    "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\ShopOrchard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\ShopOrchard.csproj",
+        "projectName": "ShopOrchard",
+        "projectPath": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\ShopOrchard.csproj",
+        "packagesPath": "C:\\Users\\aref\\.nuget\\packages\\",
+        "outputPath": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\ShopOrchard\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aref\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\Themes\\MeinNeuesTheme\\MeinNeuesTheme.csproj": {
+                "projectPath": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\Themes\\MeinNeuesTheme\\MeinNeuesTheme.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "OrchardCore.Application.Cms.Targets": {
+              "target": "Package",
+              "version": "[2.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\Themes\\MeinNeuesTheme\\MeinNeuesTheme.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\Themes\\MeinNeuesTheme\\MeinNeuesTheme.csproj",
+        "projectName": "MeinNeuesTheme",
+        "projectPath": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\Themes\\MeinNeuesTheme\\MeinNeuesTheme.csproj",
+        "packagesPath": "C:\\Users\\aref\\.nuget\\packages\\",
+        "outputPath": "D:\\Obuda\\core web application with orchard core\\ShopOrchard\\Themes\\MeinNeuesTheme\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aref\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "OrchardCore.ContentManagement": {
+              "target": "Package",
+              "version": "[2.1.6, )"
+            },
+            "OrchardCore.DisplayManagement": {
+              "target": "Package",
+              "version": "[2.1.6, )"
+            },
+            "OrchardCore.ResourceManagement": {
+              "target": "Package",
+              "version": "[2.1.6, )"
+            },
+            "OrchardCore.Theme.Targets": {
+              "target": "Package",
+              "version": "[2.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

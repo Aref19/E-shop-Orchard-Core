@@ -1,0 +1,1 @@
+D:\Obuda\core web application with orchard core\ShopOrchard\Themes\MeinNeuesTheme\obj\Debug\net8.0\staticwebassets.build.json
